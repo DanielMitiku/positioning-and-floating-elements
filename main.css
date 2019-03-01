@@ -75,6 +75,13 @@ html{
     text-align: center;
 }
 
+#space-pic p{
+    text-align: left;
+    padding-left: 70px;
+    padding-right: 200px;
+    color: grey;
+}
+
 .articles{
     margin: 5px 350px;
     line-height: 20px;
@@ -83,5 +90,34 @@ html{
    display: inline;
    float: right;
    padding-top: 0;
-   padding-bottom: 15px;
+}
+.main-title{
+    font-family: nyt-cheltenham,georgia,'times new roman',times,serif;
+    font-style: italic;
+    margin: 0;
+}
+.main-title-div{
+    margin-bottom: 20px;
+}
+.inflation{
+    width: 700px;
+}
+.top, .bottom{
+    margin: 10px 10px 20px 10px;
+}
+.tops, .bottoms{
+    margin: 0 5px;
+    width: 140px;
+}
+.top img{
+    width: 120px;
+}
+.bottom img{
+    width: 120px;
+}
+.top-one, .top-Two, .top-Three, .top-Four{
+    display: inline-block;
+}
+.bottom-one, .bottom-Two, .bottom-Three, .bottom-Four{
+    display: inline-block;
 }

@@ -121,3 +121,20 @@ html{
 .bottom-one, .bottom-Two, .bottom-Three, .bottom-Four{
     display: inline-block;
 }
+.button-1, .button-2, .button-3{
+    background-color: #326891;
+    height: 28px;
+    width: 300px;
+    color: white;
+    font-size: 11px;
+    border-radius: 5px;
+}
+.button-1{
+     width: 140px;
+}
+.button-2{
+     width: 65px;
+}
+#alllogos{
+    float: right;
+}

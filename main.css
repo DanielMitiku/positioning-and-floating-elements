@@ -79,3 +79,9 @@ html{
     margin: 5px 350px;
     line-height: 20px;
 }
+#logos{
+   display: inline;
+   float: right;
+   padding-top: 0;
+   padding-bottom: 15px;
+}

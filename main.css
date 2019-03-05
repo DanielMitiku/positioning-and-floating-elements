@@ -196,8 +196,8 @@ iframe{
 }
 .btn1{
 float: left;
-margin-top: 5px;
-margin-bottom: 5px;
+margin-top: 2px;
+margin-bottom: 2px;
 
 background-color: #326891;
     height: 40px;
@@ -210,8 +210,8 @@ background-color: #326891;
 }
 .btn2{
 float: left;
-margin-top: 5px;
-margin-bottom: 5px;
+margin-top: 2px;
+margin-bottom: 2px;
 background-color: #326891;
     height: 40px;
     color: white;

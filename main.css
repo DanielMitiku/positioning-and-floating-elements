@@ -19,28 +19,7 @@ html{
 
 }
 
-/*.nav ul li{
-    list-style: none;
-    display: inline-block;
-}
-#first-nav {
-    padding-top: 0px;
-    display: inline-block;
-    float: left;
-    margin: 1px 30px 1px 0px;
-}
-
-#first-nav ul li{
-    margin-left: 40px;
-    margin-top: 0;
-   
-}
-#first-nav img{
-    padding-top: 0px;
-    margin-top: 0;
-}
-*/
- #space {
+ .space {
     margin-left: 15px;
     
    
@@ -51,39 +30,23 @@ html{
     line-height: 19px;
     font-size: 14.25px;
 }
-#space a{
+.space a{
     color: black;
     text-decoration: none;
      padding-bottom:  10px;
 }
-#logo {
+.logo {
     padding-top: 10px;
 }
-/*#first-nav li  {
-    margin-top: 0;
-    padding-top: 0;
-}
-
-#middle-nav {
-    display: inline-block;
-    float: left;
-    margin: 10px 30px;
-      
-
-    }
-#last-nav {
-    display: inline-block;
-    float: right;
-}*/
 
 .main h1{
    text-align: center;
 }
-#space-pic{
+.space-pic{
     text-align: center;
 }
 
-#space-pic p{
+.space-pic p{
     text-align: left;
     margin: 0px 32% 5px 15%;
     color: grey;
@@ -109,7 +72,7 @@ html{
 .main-text-footer{
     font-size: 14px;
 }
-#date{
+.date{
     color: grey;
 }
 
@@ -118,7 +81,7 @@ html{
     line-height: 20px;
     overflow: hidden;
 }
-#logos{
+.logos{
    display: inline;
    float: right;
    padding-top: 0;
@@ -137,7 +100,7 @@ html{
     width: 740px;
     font-family: nyt-cheltenham,georgia,times new roman,times,serif;
 }
-#theory{
+.theory{
     font-size: 11px;
     
 }
@@ -191,7 +154,7 @@ html{
     margin-right: 120px;
     float: left;
 }
-#alllogos{
+.alllogos{
     float: left;
     
     margin-top: 0;
@@ -199,21 +162,21 @@ html{
 }
 
 
-#logo{
+.logo{
     text-align: center;
     margin-left: 225px;
     width: 400px;
     margin-right: 100px;
     float: left;
 }
-#one, #two, #space{
+.one, .two, .space{
     text-align: center;
     float: left;
     margin-top: 10px;
     margin-left: 13px;
     /*width: 150px;*/
 }
-#space{
+.space{
     margin-top: 15px;
 }
 .nav{
@@ -226,7 +189,7 @@ iframe{
     width:100%;
     height:100%;
 }
-#btn1{
+.btn1{
 float: left;
 margin-top: 5px;
 margin-bottom: 5px;
@@ -240,7 +203,7 @@ background-color: #326891;
      width: 100px;
      margin-left: 200px;
 }
-#btn2{
+.btn2{
 float: left;
 margin-top: 5px;
 margin-bottom: 5px;
@@ -253,7 +216,7 @@ background-color: #326891;
      margin-left: 5px;
      border-width: 0;
 }
-#larry-text p{
+.larry-text p{
     font-family: nyt-imperial,georgia,'times new roman',times,serif;
     font-size: 1.1875rem;
     line-height: 1.8125rem;
@@ -281,7 +244,7 @@ background-color: #326891;
     font-family: nyt-imperial,georgia,'times new roman',times,serif;
     margin: 0 !important;
 }
-#ps-script{
+.ps-script{
     font-family: nyt-franklin,helvetica,arial,sans-serif;
     font-size: 0.75rem;
     line-height: 1rem;
@@ -290,10 +253,10 @@ background-color: #326891;
     margin: 0 auto 1em;*/
     color: #999;
 }
-#home-page-link{
+.home-page-link{
     float:right;
 }
-#home-page-link a{
+.home-page-link a{
     color: rgb(98, 136, 165);
     font-family: nyt-franklin;
     font-size: 12px;
@@ -350,7 +313,7 @@ background-color: #326891;
 .sixth-top p{
     margin: 5px 0;
 }
-#education{
+.education{
     border-bottom: 1px solid rgb(226, 226, 226);
 }
 .last-line a{
@@ -368,7 +331,7 @@ background-color: #326891;
     padding-bottom: 7px;
 
 }
-#subscribe{
+.subscribe{
     font-size: 13px;
 
 }

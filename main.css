@@ -82,7 +82,7 @@ html{
 }
 
 .articles{
-    margin: 5px 28%;
+    margin: 5px 26%;
     line-height: 20px;
     overflow: hidden;
 }
@@ -115,7 +115,8 @@ html{
 }
 .tops, .bottoms{
     margin: 0 5px;
-    width: 170px;
+    width: 152px;
+    margin-bottom: 5px;
 }
 /*.top img{
     width: 170px;
@@ -227,11 +228,13 @@ background-color: #326891;
     line-height: 1.8125rem;
 }
 .botrow-imgs img{
-    width: 180px;
+    width: 140px;
+    margin: 0 10px;
     height: 110px;
 }
 .toprow-imgs img{
-    width: 180px;
+    width: 140px;
+    margin: 0 10px;
     height: 110px;
 }
 

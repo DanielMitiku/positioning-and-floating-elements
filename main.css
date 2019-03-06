@@ -111,9 +111,11 @@ html{
 }
 .top, .bottom{
     margin: 10px 3px 20px 3px;
+    clear: left;
 
 }
 .tops, .bottoms{
+    /* clear: left; */
     margin: 0 5px;
     width: 152px;
     margin-bottom: 5px;
@@ -227,17 +229,18 @@ background-color: #326891;
     font-size: 1.1875rem;
     line-height: 1.8125rem;
 }
-.botrow-imgs img{
-    width: 140px;
-    margin: 0 10px;
-    height: 110px;
-}
 .toprow-imgs img{
     width: 140px;
     margin: 0 10px;
     height: 110px;
+    clear: left;
 }
-
+.botrow-imgs img{
+    width: 140px;
+    margin: 0 10px;
+    height: 110px;
+    clear: left;
+}
 .small-lets{
     font-size: 0.9rem;
     line-height: 1.25rem;

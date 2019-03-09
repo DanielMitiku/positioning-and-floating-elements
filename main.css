@@ -224,6 +224,9 @@ background-color: #326891;
      margin-left: 5px;
      border-width: 0;
 }
+.larry-text{
+    clear: left;
+}
 .larry-text p{
     font-family: nyt-imperial,georgia,'times new roman',times,serif;
     font-size: 1.1875rem;
